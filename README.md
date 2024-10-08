@@ -42,6 +42,8 @@ Troubleshooting
 If you encounter any issues with packages, ensure that all dependencies are installed in the active Conda environment. If problems persist, try recreating the environment following the setup steps.
 
 Contributing
-Contributions are welcome! Please submit a pull request with suggested changes, and ensure to follow repository guidelines.
+Contributions are welcome! Please submit a pull request with suggested changes and ensure you follow repository guidelines.
 
-
+License
+This project is licensed under the MIT License.
+This markdown provides a comprehensive overview of the repository, setup steps, and usage instructions. You can modify the URL and any specifics based on your actual repository details. Let me know if you’d like to add more information or adjust any sections!
